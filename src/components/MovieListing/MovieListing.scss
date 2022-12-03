@@ -9,9 +9,8 @@ h2 {
 }
 }
 
-.movie-container {
-display: grid;
-grid-template-columns: repeat(auto-fill, minmax(170px , 1fr));
-grid-auto-rows: auto;
-grid-gap: 25px;
-}
+//.movie-container {
+//display: grid;
+//grid-template-columns: repeat(auto-fill, minmax(170px , 1fr));
+//grid-auto-rows: auto;
+//grid-gap: 25px;}
