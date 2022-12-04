@@ -8,10 +8,12 @@ import {
 
 function Home() {
   const dispatch = useDispatch();
+  const movieText = "teddy";
+  const showText = "love";
 
   useEffect(() => {
-    dispatch(fetchAsyncMovies());
-    dispatch(fetchAsyncShows());
+    dispatch(fetchAsyncMovies(movieText));
+    dispatch(fetchAsyncShows(showText));
   }, [dispatch]);
 
   return (
