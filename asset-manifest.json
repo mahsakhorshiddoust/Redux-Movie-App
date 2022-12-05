@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Redux-Movie-App/static/css/main.2e46774d.css",
-    "main.js": "/Redux-Movie-App/static/js/main.9a772492.js",
+    "main.css": "/Redux-Movie-App/static/css/main.031cabab.css",
+    "main.js": "/Redux-Movie-App/static/js/main.8fce8e35.js",
     "static/media/user.png": "/Redux-Movie-App/static/media/user.724b79cd582c0a0944ee.png",
     "index.html": "/Redux-Movie-App/index.html",
-    "main.2e46774d.css.map": "/Redux-Movie-App/static/css/main.2e46774d.css.map",
-    "main.9a772492.js.map": "/Redux-Movie-App/static/js/main.9a772492.js.map"
+    "main.031cabab.css.map": "/Redux-Movie-App/static/css/main.031cabab.css.map",
+    "main.8fce8e35.js.map": "/Redux-Movie-App/static/js/main.8fce8e35.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e46774d.css",
-    "static/js/main.9a772492.js"
+    "static/css/main.031cabab.css",
+    "static/js/main.8fce8e35.js"
   ]
 }
