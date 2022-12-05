@@ -8,8 +8,8 @@ import {
 
 function Home() {
   const dispatch = useDispatch();
-  const movieText = "teddy";
-  const showText = "love";
+  const movieText = "psycho";
+  const showText = "lost";
 
   useEffect(() => {
     dispatch(fetchAsyncMovies(movieText));
