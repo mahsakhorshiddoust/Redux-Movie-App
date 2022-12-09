@@ -1,4 +1,4 @@
-<h2>The Movie Finer Web App Introduction</h2>
+<h2>The Movie Finder Web App Introduction</h2>
 
 <p>Welcome to the movie finder web app! This app allows users to search for their favorite movies and view detailed information about each one. It is built using TypeScript, React, Redux, Redux Thunk, and Sass.</p>
 
